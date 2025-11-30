@@ -1,4 +1,3 @@
-# siddheshgole-product-portfolio
 Siddhesh Gole’s Product Management Portfolio
 # Siddhesh Gole - Product Management Portfolio
 
@@ -9,7 +8,7 @@ Siddhesh Gole’s Product Management Portfolio
 
 ## About Me
 
-I am a results-oriented professional transitioning from Procurement Specialist to Product Management. With over 6 years of experience in streamlining operations, optimizing vendor relationships, and leading cross-functional initiatives, I bring a unique blend of operational execution and strategic insight to build better internal tools and B2B products.
+I am a results-oriented professional transitioning from Procurement Specialist to Product Management. With over 6 years of experience in streamlining operations, optimizing vendor relationships and leading cross-functional initiatives, I bring a unique blend of operational execution and strategic insight to build better internal tools and B2B products.
 
 ---
 
